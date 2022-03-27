@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @notmellorine
 - 👀 I’m interested in game dev.
 - 🌱 I’m currently learning HTML, CSS and JavaScript for focus in front-end.
-- 💞️ I’m looking to collaborate on great companies, like Riot or Blizzard.
 - 📫 How to reach me:
 LinkedIn - https://www.linkedin.com/in/aryadne-coppini-9b5050208/
 
