@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @notmellorine
-- 👀 I’m interested in game dev.
+- 👀 I’m interested in game dev and front-end.
 - 🌱 I’m currently learning HTML, CSS and JavaScript for focus in front-end.
 - 📫 How to reach me:
 LinkedIn - https://www.linkedin.com/in/aryadne-coppini-9b5050208/
